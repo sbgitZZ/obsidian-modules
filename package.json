@@ -7,7 +7,7 @@
 		"@codemirror/state": "^6.5.2",
 		"@codemirror/view": "^6.37.2",
 		"@polyipseity/esbuild-plugin-inline-worker": "^1.0.3",
-		"@polyipseity/obsidian-plugin-library": "^1.28.0",
+		"@polyipseity/obsidian-plugin-library": "^1.30.0",
 		"espree": "^10.4.0",
 		"@ts-morph/bootstrap": "^0.27.0",
 		"acorn": "^8.15.0",
