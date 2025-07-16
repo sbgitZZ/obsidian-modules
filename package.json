@@ -38,7 +38,7 @@
 		"@types/semver": "^7.7.0",
 		"@types/workerpool": "^9.0.0",
 		"@typescript-eslint/eslint-plugin": "^8.34.0",
-		"@typescript-eslint/parser": "^8.34.0",
+		"@typescript-eslint/parser": "^8.35.0",
 		"builtin-modules": "^5.0.0",
 		"esbuild": "^0.25.5",
 		"esbuild-compress": "^2.0.2",
