@@ -5,9 +5,9 @@
 	},
 	"dependencies": {
 		"@codemirror/state": "^6.5.2",
-		"@codemirror/view": "^6.37.1",
+		"@codemirror/view": "^6.37.2",
 		"@polyipseity/esbuild-plugin-inline-worker": "^1.0.3",
-		"@polyipseity/obsidian-plugin-library": "^1.28.0",
+		"@polyipseity/obsidian-plugin-library": "^1.31.0",
 		"espree": "^10.4.0",
 		"@ts-morph/bootstrap": "^0.27.0",
 		"acorn": "^8.15.0",
@@ -20,7 +20,7 @@
 		"p-lazy": "^5.0.0",
 		"promise-pool-executor": "^1.1.1",
 		"semver": "^7.7.2",
-		"ts-essentials": "^10.1.0",
+		"ts-essentials": "^10.1.1",
 		"workerpool": "^9.3.2"
 	},
 	"description": "Load JavaScript and related languages like TypeScript modules from the vault and the Internet.",
