@@ -21,7 +21,7 @@
 		"promise-pool-executor": "^1.1.1",
 		"semver": "^7.7.2",
 		"ts-essentials": "^10.1.1",
-		"workerpool": "^9.3.2"
+		"workerpool": "^9.3.3"
 	},
 	"description": "Load JavaScript and related languages like TypeScript modules from the vault and the Internet.",
 	"devDependencies": {
